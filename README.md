@@ -25,7 +25,7 @@ Computer Engineering student with 3+ years of experience in AI, embedded systems
 ---
 
 ### 📄 My CV
-📎 [View or Download my CV (PDF)](./MERVE_KOMUR_CV_2025.pdf)
+📎 [View or Download my CV (PDF)](./MERVE_KOMUR_CV11.pdf) 
 
 ---
 
