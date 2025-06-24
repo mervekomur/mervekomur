@@ -31,6 +31,6 @@ Computer Engineering student with 3+ years of experience in AI, embedded systems
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mervekomur-blue?logo=linkedin)](https://www.linkedin.com/in/mervekomur)  
-[![Email](https://img.shields.io/badge/Email-mervekomur@gmail.com-red?logo=gmail)](mailto:mervekomur@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mmervekomur@gmail.com-red?logo=gmail)](mailto:mervekomur@gmail.com)
 
 ---
