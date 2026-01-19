@@ -24,11 +24,6 @@ Computer Engineering student with 3+ years of experience in AI, embedded systems
 
 ---
 
-### 📄 My CV
-📎 [View or Download my CV (PDF)](./MERVE_KOMUR_CV11.pdf) 
-
----
-
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mervekomur-blue?logo=linkedin)](https://www.linkedin.com/in/mervekomur)  
 [![Email](https://img.shields.io/badge/Email-mmervekomur@gmail.com-red?logo=gmail)](mailto:mervekomur@gmail.com)
